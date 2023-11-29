@@ -12,4 +12,4 @@ a bit about me:
  - 🧠 I’m currently learning Go, and I've converted every team I've worked on to TypeScript. Four and counting...
 
 If you're working on a project that needs a reliable and engaging UI, I'd love to chat! Please feel free to grab a time:
-📆 https://calendly.com/kalebdavenport
+ - 📆 https://calendly.com/kalebdavenport
