@@ -8,8 +8,9 @@ Here are some ideas to get you started:
 -->
 a bit about me:
  - 🪕 I grew up in east Tennessee. My neighbor went to school with Dolly Parton.
- - 🏛️ I learned to code at my library. I believe software should help people in poverty learn for free.
- - 🧠 I’m currently learning Go, and I've converted every team I've worked on to TypeScript. Four and counting...
+ - 🏛️ I learned to code at my local library, and I believe software should help people in poverty get their education for free.
+ - 🧠 I've converted every team I've worked on to TypeScript. Currently learning Go!
 
 If you're working on a project that needs a reliable and engaging UI, I'd love to chat! Please feel free to grab a time:
- - 📆 https://calendly.com/kalebdavenport
+
+📆 https://calendly.com/kalebdavenport
